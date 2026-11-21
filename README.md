@@ -1,5 +1,9 @@
 # Get Paid to Build Things: A Beginner's Guide to make.fun
 
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/syachrielsd/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/syachrielsd/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+
 **This weekend, you could make a small game, a forecast, a poem, or a tool — and get paid real money for it.** Not exposure. Not points. Money, in USDC, from a prize pool that is already locked on-chain before you even start.
 
 Those offers are called **bounties**, they live on a site called **make.fun**, and entering one costs exactly $0.
