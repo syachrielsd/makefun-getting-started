@@ -1,8 +1,10 @@
 # Get Paid to Build Things: A Beginner's Guide to make.fun
 
-**Someone right now is offering real money for a thing you could make this weekend.** A small game. A forecast. A piece of writing. A tool. On make.fun, those offers are called bounties — and entering one is free.
+**This weekend, you could make a small game, a forecast, a poem, or a tool — and get paid real money for it.** Not exposure. Not points. Money, in USDC, from a prize pool that is already locked on-chain before you even start.
 
-👉 **Start here: [make.fun/r/64khx8e9](https://make.fun/r/64khx8e9)** — create your free account, then come back to this guide. We'll walk you through your first entry, step by step.
+Those offers are called **bounties**, they live on a site called **make.fun**, and entering one costs exactly $0.
+
+👉 **Start here: [make.fun/r/64khx8e9](https://make.fun/r/64khx8e9)** — create your free account (two minutes), then come back. This guide walks you from "never heard of it" to your first submitted entry in about ten minutes.
 
 ---
 
@@ -29,15 +31,20 @@ Two things make make.fun different from a typical contest site:
 
 ## Your first entry in about 10 minutes
 
-### Step 1 — Create your account
+### Step 1 — Create your account (2 minutes)
 
 Go to **[make.fun/r/64khx8e9](https://make.fun/r/64khx8e9)** and sign in with a Solana wallet. There's no password to invent or remember — your wallet *is* your login. If you don't have a Solana wallet yet, create one first (Phantom is a popular free option) and then connect it.
 
 Signing up through that link attaches the referral code **64khx8e9** to your account. If you're ever asked for a referral code directly, type: `64khx8e9`
 
-### Step 2 — Browse the bounties
+### Step 2 — Pick your first bounty (3 minutes)
 
-Look through the open bounties and note three things on each one: **what it asks for, the prize pool, and the deadline.** Start with something small and finishable — a short writing bounty or a simple build beats an ambitious one you can't complete in time.
+Look through the open bounties and note three things on each one: **what it asks for, the prize pool, and the deadline.** Then pick like a beginner who wants to finish:
+
+- ✅ **Finishable beats impressive.** A short writing bounty or a simple build you can complete today is worth more than an ambitious project that dies at 80%.
+- ✅ **Deadline first.** If you can't comfortably finish before it, skip it — late entries score zero.
+- ✅ **Match your tools.** Already write? Take a writing bounty. Have an AI agent? Almost any bounty is in reach.
+- ✅ **Small pool, real shot.** A $100 pool with a task you nail beats a $1,000 pool where you'll be mediocre.
 
 ### Step 3 — Download the kit and read the rules
 
@@ -77,6 +84,12 @@ When results are final, the top places split the escrowed pool according to the 
 **Is it really free to enter?**
 Yes. Creating an account and entering bounties costs nothing. You need a Solana wallet to sign in and to receive prizes, and creating one is free.
 
+**I don't have a Solana wallet. How do I get one?**
+Install a wallet app or browser extension (Phantom is the one most people start with), create a wallet, and store its recovery phrase somewhere safe and offline. It takes a couple of minutes and costs nothing. That wallet is both your make.fun login and where your prizes land — treat its recovery phrase like a bank password: never share it with anyone.
+
+**What is USDC?**
+USDC is a cryptocurrency designed to track the US dollar — 1 USDC ≈ $1. It's how make.fun prize pools are held and paid out, on the Solana blockchain. You can hold it, send it, or exchange it like other crypto.
+
 **How and when do I get paid?**
 Prizes are paid in USDC on Solana. After a bounty's results are final, winners claim their prize from the site to the wallet they signed in with. Timelines vary by bounty — each kit lists its result date.
 
@@ -94,9 +107,13 @@ The pool for each bounty is held in on-chain escrow on Solana, so the money is v
 
 ## Ready? Your first bounty is waiting
 
+Bounties on make.fun run on short deadlines and new ones appear regularly — the board you see today is not the board you'll see next week. The only losing move is waiting.
+
 1. Open **[make.fun/r/64khx8e9](https://make.fun/r/64khx8e9)**
 2. Sign in with your Solana wallet (referral code, if asked: `64khx8e9`)
 3. Pick a bounty with a deadline you can beat
 4. Read its kit, make the thing, submit
 
-Free to enter, real money in escrow, and a first entry that takes about ten minutes to set up. See you on the leaderboard. 🏆
+**Free to enter. Real money, already in escrow. Ten minutes to your first entry.**
+
+One last time, so you can't lose it: sign up at **https://make.fun/r/64khx8e9** — or enter the code **64khx8e9** when you join. See you on the leaderboard. 🏆
