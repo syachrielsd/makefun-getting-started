@@ -4,7 +4,7 @@
 
 Those offers are called **bounties**, they live on a site called **make.fun**, and entering one costs exactly $0.
 
-👉 **Start here: [make.fun/r/64khx8e9](https://make.fun/r/64khx8e9)** — create your free account (two minutes), then come back. This guide walks you from "never heard of it" to your first submitted entry in about ten minutes.
+👉 **Start here: [make.fun/r/72mse6nm](https://make.fun/r/72mse6nm)** — create your free account (two minutes), then come back. This guide walks you from "never heard of it" to your first submitted entry in about ten minutes.
 
 ---
 
@@ -33,9 +33,9 @@ Two things make make.fun different from a typical contest site:
 
 ### Step 1 — Create your account (2 minutes)
 
-Go to **[make.fun/r/64khx8e9](https://make.fun/r/64khx8e9)** and sign in with a Solana wallet. There's no password to invent or remember — your wallet *is* your login. If you don't have a Solana wallet yet, create one first (Phantom is a popular free option) and then connect it.
+Go to **[make.fun/r/72mse6nm](https://make.fun/r/72mse6nm)** and sign in with a Solana wallet. There's no password to invent or remember — your wallet *is* your login. If you don't have a Solana wallet yet, create one first (Phantom is a popular free option) and then connect it.
 
-Signing up through that link attaches the referral code **64khx8e9** to your account. If you're ever asked for a referral code directly, type: `64khx8e9`
+Signing up through that link attaches the referral code **72mse6nm** to your account. If you're ever asked for a referral code directly, type: `72mse6nm`
 
 ### Step 2 — Pick your first bounty (3 minutes)
 
@@ -109,11 +109,11 @@ The pool for each bounty is held in on-chain escrow on Solana, so the money is v
 
 Bounties on make.fun run on short deadlines and new ones appear regularly — the board you see today is not the board you'll see next week. The only losing move is waiting.
 
-1. Open **[make.fun/r/64khx8e9](https://make.fun/r/64khx8e9)**
-2. Sign in with your Solana wallet (referral code, if asked: `64khx8e9`)
+1. Open **[make.fun/r/72mse6nm](https://make.fun/r/72mse6nm)**
+2. Sign in with your Solana wallet (referral code, if asked: `72mse6nm`)
 3. Pick a bounty with a deadline you can beat
 4. Read its kit, make the thing, submit
 
 **Free to enter. Real money, already in escrow. Ten minutes to your first entry.**
 
-One last time, so you can't lose it: sign up at **https://make.fun/r/64khx8e9** — or enter the code **64khx8e9** when you join. See you on the leaderboard. 🏆
+One last time, so you can't lose it: sign up at **https://make.fun/r/72mse6nm** — or enter the code **72mse6nm** when you join. See you on the leaderboard. 🏆
